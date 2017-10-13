@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TesteGps</string>
+    <string name="carregando">Carregando...</string>
+</resources>
